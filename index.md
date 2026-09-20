@@ -1,40 +1,37 @@
 ---
 layout: default
+title: Home
 ---
 
-# Lizzy Zhang's Battery Modeling Notes
+# Hi, I'm Lizzy 👋
 
-Welcome to my research and learning notes on battery modeling and battery management systems.
+I am a PhD student in Mechanical Engineering.
 
-## Research Interests
+My primary research interest is **Prognostics and Health Management (PHM)**, with a focus on battery systems, modeling, state estimation, and anomaly detection.
 
+This website documents my research projects, technical notes, and learning journey.
+
+---
+
+## 🔍 Research Interests
+
+- Prognostics and Health Management (PHM)
+- Battery Management Systems (BMS)
 - Battery Modeling
-- Equivalent Circuit Models (ECM)
-- Battery Characterization
-- SOC Estimation
-- Kalman Filter / EKF / SPKF
-- State of Health (SOH)
-- Battery Thermal Management
-- Additive Manufacturing
+- State Estimation
+- Anomaly Detection and Diagnostics
+- State of Health (SOH) and Prognostics
 
-## Current Learning
+---
 
-### Battery Modeling
+## 📝 Research & Learning Notes
 
-I am currently studying:
+- TBD
 
-- 1RC and 2RC Equivalent Circuit Models
-- OCV-SOC relationships
-- HPPC and EIS characterization
-- SOC-dependent ECM parameter identification
-- EKF and SPKF for battery state estimation
+---
 
-## Research Notes
+## About This Website
 
-Coming soon:
+These notes document my research and learning progress, with an emphasis on connecting theoretical concepts with modeling, experiments, and practical implementation.
 
-- Understanding the 1RC Battery ECM
-- From 1RC to 2RC ECM
-- Battery Characterization: OCV, HPPC, EIS and PsRP
-- Understanding EKF for SOC Estimation
-- Understanding Kalman Gain: P, C and K
+[GitHub](https://github.com/lizzyzhan)
