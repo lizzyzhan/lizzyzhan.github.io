@@ -26,8 +26,7 @@ This website documents my research projects, technical notes, and learning journ
 
 ## 📝 Research & Learning Notes
 
-- TBD
-
+- [Understanding the Cell Equivalent Circuit Model](1.understanding%20the%20cell%20ECM.md)
 ---
 
 ## About This Website
